@@ -29,3 +29,8 @@ The syntax for removing all the localStorage items is as follows:
 
 Clear all items
 `localStorage.clear();`
+
+#### Other localStorage examples
+
+<https://joshwcomeau.com/react/persisting-react-state-in-localstorage/>
+<https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage>
